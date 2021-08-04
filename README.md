@@ -10,5 +10,5 @@ See https://projects.romeinvanburen.nl for a list of open source projects I'm wo
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=garraflavatra&show_icons=true">
 
-## Languages I code in
+## Languages I use
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garraflavatra&layout=compact">
