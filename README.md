@@ -1,14 +1,34 @@
-<!--
-[ ![Garra Flavatra](https://github.com/garraflavatra/garraflavatra/raw/main/garraflavatra.png) ](https://garraflavatra.github.io/garraflavatra.html)
-> This is the @garraflavatra profile README with a garra flavatra photo linking to a garra flavatra video taken by a shop where you can buy garra flavatras.
--->
+<!-- Badges: https://shields.io/badge/react-grey?logo=react&style=for-the-badge -->
 
-# Welcome!
+## Currently working on
 
-See https://projects.romeinvanburen.nl for a list of open source projects I'm working on.
+[![Sidekick](img/sidekick.png)](https://sidekickgame.netlify.app)
 
-## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=garraflavatra&show_icons=true">
+![Svelte](img/svelte.svg) ![Typescript](img/typescript.svg)
 
-## Languages I use
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garraflavatra&layout=compact">
+Semi-Pong game with silly balls and no way to lose the game.
+
+See https://projects.romeinvanburen.nl for a longer list of projects I (don't) maintain.
+
+## Languages
+
+[![JavaScript](img/javascript.svg)](https://github.com/garraflavatra?tab=repositories&language=javascript)
+[![Node.js](img/nodejs.svg)](https://github.com/garraflavatra?tab=repositories&language=javascript)
+[![Typescript](img/typescript.svg)](https://github.com/garraflavatra?tab=repositories&language=typescript)
+[![Python](img/python.svg)](https://github.com/garraflavatra?tab=repositories&language=python)
+[![C++](img/cpp.svg)](https://github.com/garraflavatra?tab=repositories&language=c%2B%2B)
+[![SCSS](img/scss.svg)](https://github.com/garraflavatra?tab=repositories&language=scss)
+
+## Frameworks & libraries
+
+[![Svelte](img/svelte.svg)](https://github.com/garraflavatra?tab=repositories&language=svelte)
+[![React](img/react.svg)](https://reactjs.org)
+
+## Boards
+
+[![Raspberry Pi](img/raspberrypi.svg)](https://github.com/garraflavatra?tab=repositories&q=rpi)
+[![Arduino](img/arduino.svg)](https://github.com/garraflavatra?tab=repositories&q=arduino)
+
+## Activity
+
+![garraflavatra's github activity graph](https://activity-graph.herokuapp.com/graph?username=garraflavatra&bg_color=686868&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
