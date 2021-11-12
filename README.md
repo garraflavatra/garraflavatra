@@ -1,14 +1,12 @@
-<!-- Badges: https://shields.io/badge/react-grey?logo=react&style=for-the-badge -->
-
-## Currently working on
-
-[![Sidekick](img/sidekick.png)](https://sidekickgame.netlify.app)
+## I'm currently working on:
+<img style="max-width: 200px; height: auto;" src="img/sidekick.png" alt="Sidekick">
 
 ![Svelte](img/svelte.svg) ![Typescript](img/typescript.svg)
 
 Semi-Pong game with silly balls and no way to lose the game.
 
-See https://projects.romeinvanburen.nl for a longer list of projects I (don't) maintain.
+[See this](https://projects.romeinvanburen.nl) for a longer list of projects I'm
+(not) maintaining.
 
 ## Languages
 
@@ -23,6 +21,7 @@ See https://projects.romeinvanburen.nl for a longer list of projects I (don't) m
 
 [![Svelte](img/svelte.svg)](https://github.com/garraflavatra?tab=repositories&language=svelte)
 [![React](img/react.svg)](https://reactjs.org)
+[![Eleventy](img/eleventy.svg)](https://github.com/garraflavatra?tab=repositories&q=eleventy)
 
 ## Boards
 
