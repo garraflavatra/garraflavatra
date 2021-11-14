@@ -1,5 +1,5 @@
 ## I'm currently working on:
-<img style="max-width: 200px; height: auto;" src="img/sidekick.png" alt="Sidekick">
+<img width="200" src="img/sidekick.png" alt="Sidekick">
 
 ![Svelte](img/svelte.svg) ![Typescript](img/typescript.svg)
 
@@ -28,6 +28,8 @@ Semi-Pong game with silly balls and no way to lose the game.
 [![Raspberry Pi](img/raspberrypi.svg)](https://github.com/garraflavatra?tab=repositories&q=rpi)
 [![Arduino](img/arduino.svg)](https://github.com/garraflavatra?tab=repositories&q=arduino)
 
+<!--
 ## Activity
 
 ![garraflavatra's github activity graph](https://activity-graph.herokuapp.com/graph?username=garraflavatra&bg_color=686868&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
+-->
