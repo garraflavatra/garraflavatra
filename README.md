@@ -4,7 +4,7 @@ I'm currently working on Rolens: an open source MongoDB client for all desktop p
 
 [![Rolens banner](/rolens-banner.webp)](https://garraflavatra.github.io/rolens/)
 
-I also maintain a few other open source projects, like [Alphabets](https://github.com/garraflavatra/alphabets) and [trmclr](https://github.com/garraflavatra/trmclr). I use ESLint in combination with Johan's configs for [Node.js](https://github.com/Johbog/eslint-config-nodejs) and [Svelte](https://github.com/Johbog/eslint-config-svelte3) to maintain the code style of these repos.
+I also maintain a few other open source projects, like [Alphabets](https://github.com/garraflavatra/alphabets) and [trmclr](https://github.com/garraflavatra/trmclr).
 
 ---
 
